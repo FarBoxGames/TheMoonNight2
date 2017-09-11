@@ -9,7 +9,7 @@
 		<avatar name="Astronaut-Moon"  id="4"   src="astronaut-moon.png"/>
 		<avatar name="Earth" 	       id="5"   src="earth.png"/>
 		<avatar name="Moon"            id="6"   src="moon.png"/>
-		<avatar name="Moon-Flag.png"   id="7"   src="moon-flag.png"/>
+		<avatar name="Moon-Flag"   id="7"   src="moon-flag.png"/>
 		<avatar name="Rocket"          id="8"   src="rocket.png"/>
 		<avatar name="Satelite"        id="9"   src="satelite.png"/>
 		<avatar name="Satelite-Radar"  id="10"  src="satelite-radar.png"/>
