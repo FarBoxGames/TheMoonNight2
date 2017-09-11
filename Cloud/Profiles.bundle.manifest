@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2344815161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d604c6c461241c3c425fe17323cfb8c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fccb50b60b19417926df6e17eaf38a1b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/Profiles/avatars/telescope.png
+- Assets/AssetBundles/Profiles/avatars/earth.png
+- Assets/AssetBundles/Profiles/avatars/alien.png
+- Assets/AssetBundles/Profiles/avatars/astronaut.png
+- Assets/AssetBundles/Profiles/avatars/saturn.png
+- Assets/AssetBundles/Profiles/avatars/rocket.png
+- Assets/AssetBundles/Profiles/avatars/ursa-minor.png
+- Assets/AssetBundles/Profiles/avatars/satelite-radar.png
+- Assets/AssetBundles/Profiles/avatars/solar-system.png
+- Assets/AssetBundles/Profiles/avatars/asteroid.png
+- Assets/AssetBundles/Profiles/avatars/moon.png
+- Assets/AssetBundles/Profiles/avatars/spaceship.png
+- Assets/AssetBundles/Profiles/avatars/moon-flag.png
+- Assets/AssetBundles/Profiles/avatars/astronaut-moon.png
+- Assets/AssetBundles/Profiles/avatars/asteroid-earth.png
+- Assets/AssetBundles/Profiles/avatars/venus.png
+- Assets/AssetBundles/Profiles/avatars/sun.png
+- Assets/AssetBundles/Profiles/avatars/satelite.png
+- Assets/AssetBundles/Profiles/avatars.xml
+- Assets/AssetBundles/Profiles/avatars/uranus.png
+- Assets/AssetBundles/Profiles/avatars/ufo.png
+Dependencies: []
