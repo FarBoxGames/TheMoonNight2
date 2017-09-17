@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <avatars bundlename="Profiles.bundle">
-	<property version="1" dir="avatars" width="1024" height="1024"/>
+	<property version="2" dir="avatars" width="1024" height="1024"/>
 	<sources>
 		<avatar name="Astronaut"       id="0"   src="astronaut.png"/>
 		<avatar name="Alien"           id="1"   src="alien.png"/>
